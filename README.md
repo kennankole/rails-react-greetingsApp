@@ -53,16 +53,12 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Rails-React-Messages-API] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Rails-React-Messages-API]** is a basic app that demonstrates the combination of rails and react using webpack
 The app has an API endpoint to access random greetings.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -83,8 +79,6 @@ The app has an API endpoint to access random greetings.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Retrieve messages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,8 +87,6 @@ The app has an API endpoint to access random greetings.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,8 +94,6 @@ The app has an API endpoint to access random greetings.
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -134,7 +124,6 @@ Install this project with:
   gem install
 ```
 
-
 ### Usage
 
 To run the project, execute the following command:
@@ -150,8 +139,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@kennankole](https://github.com/kennankole)
@@ -163,8 +150,6 @@ To run the project, execute the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Post greetings to an endpoint]**
 - [ ] **[Remove greetings from an endpoint]**
@@ -185,8 +170,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project kindly give it a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -195,7 +178,6 @@ If you like this project kindly give it a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the Microverse tutorials
 
